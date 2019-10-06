@@ -7,7 +7,8 @@
   </url>
   
   <url>
-    <loc>http://CQUGuoPengfei.github.io/</loc>
+    <loc>http://CQUGuoPengfei.github.io/privacy/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -16,6 +17,10 @@
   
   <url>
     <loc>http://CQUGuoPengfei.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://CQUGuoPengfei.github.io/</loc>
   </url>
   
   <url>
